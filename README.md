@@ -1,16 +1,21 @@
+
 ## Hi there! 👋 I'm Dishant
 
-![Header](https://github.com/dishanttalwekar97/profile/blob/main/github-header-image%20(1).png)
+![Header](https://github.com/dishanttalwekar97/dishanttalwekar97/blob/main/github-header-image%20(1).png)
 
 ### 🚀 About Me
-I'm a *web developer* and *blockchain enthusiast* passionate about building innovative and impactful projects. I have experience in *web development* and currently work as a *Campus Ambassador for XDC Network*. I love exploring new technologies and creating solutions that make a difference.
+Hi, I'm Dishant Talwekar, a passionate Web Developer and Blockchain Enthusiast. I love building innovative solutions that merge technology with creativity.
 
+I have completed a Web Development Internship at Mainflow Company, where I worked on real-world projects and honed my skills in HTML, CSS, JavaScript, React, and Express. Currently, I serve as a Campus Ambassador for XDC Network, engaging with the blockchain community and exploring decentralized technologies.
+
+With a strong foundation in full-stack development, I'm always excited to learn new technologies, contribute to open-source projects, and collaborate with like-minded developers.
 ### 💡 What I'm Working On
 - 🎓 Organizing a *coding contest* on *HackerRank*
 - 📚 Building a *gamified vocabulary platform* with quizzes and puzzles
 - 🎵 Creating a *Spotify Responsive Clone*
 
 ### 🛠 Skills & Technologies
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 #### Programming Languages
 <p align="left">
